@@ -248,8 +248,8 @@ The exact evaluation of the covariance term removes one unknown from this recurs
 
 3. D. E. Knuth, *The Art of Computer Programming, Volume 2: Seminumerical Algorithms*, 3rd ed. Addison-Wesley, 1997.
 
-4. [A] Companion paper: *Spectral Theory of Carries in Positional Multiplication*, this series.
+4. [A] Companion paper: *Spectral Theory of Carries in Positional Multiplication*, this series. doi:10.5281/zenodo.18895593
 
-5. [E] Companion paper: *The Trace Anomaly of Binary Multiplication*, this series.
+5. [E] Companion paper: *The Trace Anomaly of Binary Multiplication*, this series. doi:10.5281/zenodo.18895604
 
-6. [P2] Companion paper: *The Sector Ratio in Binary Multiplication: From Markov Failure to Transcendence*, this series.
+6. [P2] Companion paper: *The Sector Ratio in Binary Multiplication: From Markov Failure to Transcendence*, this series. doi:10.5281/zenodo.18895615

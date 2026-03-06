@@ -1,11 +1,16 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Exact Covariance Structure of Binary Carry Chains"
+doi: "10.5281/zenodo.18895607"
 authors:
   - family-names: Alimonti
     given-names: Stefano
     orcid: "https://orcid.org/0009-0009-1183-1698"
     email: "stefalimonti@gmail.com"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18895607"
+    description: "Zenodo archive (all versions)"
 date-released: 2026-03-05
 repository-code: "https://github.com/stefanoalimonti/carry-arithmetic-F-covariance-structure"
 keywords:
